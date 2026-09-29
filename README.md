@@ -30,7 +30,7 @@
 <strong>Months of sending CVs into silence.</strong> So I built the filter I needed.<br>
 <strong>740 listings. 68 applied. 12 interviews. 1 offer.</strong><br>
 I was its first user. <strong>I got the job.</strong> Then I open-sourced it.<br>
-In September, <strong>I left the job it got me</strong> to build it for you.
+Six months later, <strong>I left that job.</strong> Now we build career-ops, so you can land yours.
 </td>
 </tr>
 </table>

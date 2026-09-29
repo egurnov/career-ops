@@ -45,6 +45,21 @@ I was its first user. <strong>I got the job.</strong> Then I open-sourced it.
 
 <p align="center"><sub>That red tab is the product. <em>Do not apply.</em> <a href="https://santifer.io/career-ops-system">The full story →</a></sub></p>
 
+## What career-ops does for you
+
+Paste a job. It tells you whether that night is worth it.
+
+- **Fake or stale?** It flags ghost jobs and scams before you write a word.
+- **Not you?** It scores the role against your real CV and tells you to skip a weak fit. You can override it.
+- **Worth it?** It drafts the CV, the cover letter and the answers. You read them. You send them.
+- **Who do I talk to?** It finds the person and drafts the note. It never sends it.
+- **Where does it all go?** Every application stays on your machine. Nothing is uploaded to us.
+- **What should I learn?** After a run of noes, it names the gap.
+
+The first runs are rough. It does not know you yet. Talk to it: your CV, what you want, what you refuse. Think of it as a recruiter's first week.
+
+On first launch it asks for all that in chat. Nothing to configure by hand.
+
 <br>
 
 <p align="center"><a href="HIRED.md"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsantifer%2Fcareer-ops%2Fmain%2Fdocs%2Fhired-count.json&query=%24.count&label=%F0%9F%8E%89%20HIRED%20WITH%20CAREER-OPS&suffix=%20verified&color=2ea44f&style=for-the-badge&labelColor=2b3137" alt="Hired with career-ops: verified count"></a></p>
@@ -113,21 +128,6 @@ career-ops is free for candidates, forever. The companies below fund the maintai
 <p align="center"><strong>SerpApi</strong> · Build a portfolio project with live search data. SerpApi gives developers structured JSON/Markdown from Google Search, Maps, Shopping, and other engines through a simple API call.</p>
 
 > Sponsorship buys clearly labeled visibility, never influence: no amount of money changes the roadmap or places anything in the product. Sponsors never appear in evaluations, rankings or recommendations.
-
-## What career-ops does for you
-
-Paste a job. It tells you whether that night is worth it.
-
-- **Fake or stale?** It flags ghost jobs and scams before you write a word.
-- **Not you?** It scores the role against your real CV and tells you to skip a weak fit. You can override it.
-- **Worth it?** It drafts the CV, the cover letter and the answers. You read them. You send them.
-- **Who do I talk to?** It finds the person and drafts the note. It never sends it.
-- **Where does it all go?** Every application stays on your machine. Nothing is uploaded to us.
-- **What should I learn?** After a run of noes, it names the gap.
-
-The first runs are rough. It does not know you yet. Talk to it: your CV, what you want, what you refuse. Think of it as a recruiter's first week.
-
-On first launch it asks for all that in chat. Nothing to configure by hand.
 
 ## What career-ops will not do
 

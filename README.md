@@ -624,9 +624,7 @@ Yes. career-ops is free and open source, and for the candidate it always will be
 
 ## About the Author
 
-I'm [Santiago Fernández de Valderrama Aparicio](https://santifer.io/about) (santifer) -- Head of Applied AI, former founder (built and sold a business that still runs with my name on it). I built career-ops to manage my own job search. It worked: I used it to land my current role.
-
-Curious how this repo is maintained in ~4 hours a week? Read [Agentic maintenance: how career-ops is run by a fleet of AI agents](https://santifer.io/ai-agent-fleet).
+I'm [Santiago Fernández de Valderrama Aparicio](https://santifer.io/about) (santifer), a former founder: I built and sold a business that still runs with my name on it. I built career-ops to manage my own job search, and it worked: it got me a job. Six months later I left that job to work on career-ops full time.
 
 My portfolio and other open source projects → [santifer.io](https://santifer.io)
 

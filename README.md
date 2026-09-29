@@ -36,7 +36,7 @@ I was its first user. <strong>I got the job.</strong> Then I open-sourced it.
 
 <p align="center">
   Companies use AI to filter candidates. <strong>I just gave candidates AI to <em>choose</em> companies.</strong><br>
-  On your machine, it tells you which jobs are still open and which ones fit, tailors your CV, fills in the form, and <strong>waits for your yes.</strong>
+  On your machine, it tells you which jobs are still open and which ones fit, tailors your CV, drafts every answer, and <strong>you press Submit.</strong>
 </p>
 
 <p align="center">

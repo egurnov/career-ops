@@ -2,7 +2,7 @@
 
 <p align="center">The open-source AI job search agent.</p>
 
-<p align="center">
+<p align="center"><sub>
   <a href="README.md">English</a> |
   <a href="README.es.md">Español</a> |
   <a href="README.de.md">Deutsch</a> |
@@ -20,6 +20,7 @@
   <a href="README.ar.md">العربية</a> |
   <a href="README.hi.md">हिन्दी</a> |
   <a href="README.tr.md">Türkçe</a>
+</sub>
 </p>
 
 <table align="center">

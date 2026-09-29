@@ -22,32 +22,46 @@
   <a href="README.tr.md">Türkçe</a>
 </p>
 
-<table align="center">
-<tr>
-<td align="center" valign="middle"><a href="https://github.com/santifer"><img src="docs/avatar-santifer.png" width="72" height="72" alt="santifer"></a></td>
-<td valign="middle">
-<strong>Months of sending CVs into silence.</strong> So I built the filter I needed.<br>
-<strong>740 listings. 68 applied. 12 interviews. 1 offer.</strong><br>
-I was its first user. <strong>I got the job.</strong> Then I open-sourced it.<br>
-Six months later, <strong>I left that job.</strong> Now we build career-ops, so you can land yours.
-</td>
-</tr>
-</table>
+<!-- The non-breaking spaces (&nbsp;) and word joiners (&#8288;) below decide where each line wraps on a phone. Keep them when editing. -->
+
+<p align="center"><a href="https://github.com/santifer"><img src="docs/avatar-santifer.png" width="48" height="48" align="middle" alt="Santiago Fernández de Valderrama Aparicio"></a>&nbsp;&nbsp;<a href="https://github.com/santifer"><strong>santifer</strong></a></p>
 
 <p align="center">
-  Companies use AI to filter candidates. <strong>I just gave candidates AI to <em>choose</em> companies.</strong><br>
-  On your machine, it tells you which jobs are still open and which ones fit, tailors your CV, drafts every answer, and <strong>you press Submit.</strong>
+<strong>Months of sending CVs into&nbsp;silence.</strong><br>
+So I built the filter I&nbsp;needed.
 </p>
 
 <p align="center">
-  <a href="https://x.com/santifer/status/2041403685696053741"><img src="docs/demo.gif" alt="The author's own search: listings marked do not apply, in red, before a CV went out" width="800"></a>
+<strong>740&nbsp;listings&nbsp;evaluated. 68&nbsp;applied. 12&nbsp;interviews.&nbsp;1&nbsp;offer.</strong><br>
+I was its first user. I got the&nbsp;job. Then&nbsp;I&nbsp;open-&#8288;sourced&nbsp;it.
 </p>
 
-<p align="center"><sub>That red tab is the product. <em>Do not apply.</em> <a href="https://santifer.io/career-ops-system">The full story →</a></sub></p>
+<p align="center">
+Paste a job. On your machine, it tells you if it's still&nbsp;open and if it&nbsp;fits.<br>
+It tailors your CV and drafts your&nbsp;answers. <strong>You&nbsp;press&nbsp;Submit.</strong>
+</p>
+
+<p align="center">
+  <img src="docs/demo.gif" alt="The author's own search in the career-ops dashboard: scored listings, a red count of the ones marked do not apply, then a full evaluation report" width="800">
+</p>
+
+<p align="center"><sub>My own search, partway through, with&nbsp;the&nbsp;UI&nbsp;in&nbsp;Spanish.</sub></p>
+
+<p align="center">
+  Companies use AI to filter candidates.<br>
+  <strong>I just gave candidates AI&nbsp;to&nbsp;<em>choose</em>&nbsp;companies.</strong>
+</p>
+
+<p align="center">
+  Six months later, <strong>I left that job.</strong><br>
+  Now we build career-ops, so&nbsp;you&nbsp;can&nbsp;land&nbsp;yours.
+</p>
+
+<p align="center"><a href="#your-turn">Try it on one job&nbsp;↓</a> · <a href="https://santifer.io/career-ops-system">Read the full&nbsp;story&nbsp;→</a></p>
 
 <br>
 
-<p align="center"><a href="HIRED.md"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsantifer%2Fcareer-ops%2Fmain%2Fdocs%2Fhired-count.json&query=%24.count&label=%F0%9F%8E%89%20HIRED%20WITH%20CAREER-OPS&suffix=%20verified&color=2ea44f&style=for-the-badge&labelColor=2b3137" alt="Hired with career-ops: verified count"></a></p>
+<p align="center"><a href="HIRED.md"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcareer-ops-hq%2Fcareer-ops%2Fmain%2Fdocs%2Fhired-count.json&query=%24.count&label=%F0%9F%8E%89%20HIRED%20WITH%20CAREER-OPS&color=2ea44f&style=for-the-badge&labelColor=2b3137" alt="Hired with career-ops: self-reported count"></a></p>
 
 <p align="center">The people who came after me wrote down how they got hired.</p>
 

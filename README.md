@@ -1,5 +1,27 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/wordmark-dark.svg"><img src="docs/wordmark-light.svg" alt="career-ops" width="250" height="56"></picture></p>
 
+<p align="center">The open-source AI job search agent.</p>
+
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.es.md">Español</a> |
+  <a href="README.de.md">Deutsch</a> |
+  <a href="README.fr.md">Français</a> |
+  <a href="README.pt-BR.md">Português (Brasil)</a> |
+  <a href="README.ko-KR.md">한국어</a> |
+  <a href="README.ja.md">日本語</a> |
+  <a href="README.cn.md">简体中文</a> |
+  <a href="README.zh-TW.md">繁體中文</a> |
+  <a href="README.ua.md">Українська</a> |
+  <a href="README.ru.md">Русский</a> |
+  <a href="README.pl.md">Polski</a> |
+  <a href="README.da.md">Dansk</a> |
+  <a href="README.ta.md">தமிழ்</a> |
+  <a href="README.ar.md">العربية</a> |
+  <a href="README.hi.md">हिन्दी</a> |
+  <a href="README.tr.md">Türkçe</a>
+</p>
+
 <table align="center">
 <tr>
 <td align="center" valign="middle"><a href="https://github.com/santifer"><img src="docs/avatar-santifer.png" width="72" height="72" alt="santifer"></a></td>
@@ -11,20 +33,9 @@ I was its first user. <strong>I got the job.</strong> Then I open-sourced it.
 </tr>
 </table>
 
-<div align="center">
-<details>
-<summary>🌍 Read this in 17 languages</summary>
-<div align="center">
-
-[English](README.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Português (Brasil)](README.pt-BR.md) | [한국어](README.ko-KR.md) | [日本語](README.ja.md) | [简体中文](README.cn.md) | [繁體中文](README.zh-TW.md) | [Українська](README.ua.md) | [Русский](README.ru.md) | [Polski](README.pl.md) | [Dansk](README.da.md) | [தமிழ்](README.ta.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [Türkçe](README.tr.md)
-
-</div>
-</details>
-</div>
-
 <p align="center">
   Companies use AI to filter candidates. <strong>I just gave candidates AI to <em>choose</em> companies.</strong><br>
-  On your machine, it tells you which jobs are real, which ones fit, and <strong>helps you apply in your name.</strong>
+  On your machine, it tells you which jobs are still open and which ones fit, tailors your CV, fills in the form, and <strong>waits for your yes.</strong>
 </p>
 
 <p align="center">

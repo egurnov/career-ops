@@ -29,7 +29,8 @@
 <td valign="middle">
 <strong>Months of sending CVs into silence.</strong> So I built the filter I needed.<br>
 <strong>740 listings. 68 applied. 12 interviews. 1 offer.</strong><br>
-I was its first user. <strong>I got the job.</strong> Then I open-sourced it.
+I was its first user. <strong>I got the job.</strong> Then I open-sourced it.<br>
+In September, <strong>I left the job it got me</strong> to build it for you.
 </td>
 </tr>
 </table>
@@ -119,7 +120,7 @@ Hiring will not fix itself. The people going through it can, and they are alread
 
 ## Sponsors
 
-career-ops is free for candidates, forever. The companies below fund the maintainer's time and keep it that way.
+career-ops is free for candidates, forever. Sponsorship pays for the project's own maintenance, the maintainer's time included, and every payment in and out is public.
 
 <p align="center">
   <a href="https://serpapi.com/career-ops-org" title="SerpApi"><img src="docs/sponsors/serpapi.svg" alt="SerpApi" height="48"></a>
@@ -249,6 +250,8 @@ This installs the `career-ops` binary globally so you can run it directly instea
 > **The system is designed to be customized by your AI coding CLI itself.** Modes, archetypes, scoring weights, negotiation scripts -- just ask it to change them. It reads the same files it uses, so it knows exactly what to edit.
 
 See [docs/SETUP.md](docs/SETUP.md) for the full setup guide, [docs/RUNNING_ON_A_BUDGET.md](docs/RUNNING_ON_A_BUDGET.md) for instructions on running career-ops cheaply using custom or local models (and [docs/FREE_TIER.md](docs/FREE_TIER.md) for running it at zero cost on Antigravity CLI's free tier), [docs/AUTOMATION.md](docs/AUTOMATION.md) for scheduling recurring scans and a zero-token triage-to-shortlist recipe, [docs/APPLY_AUTOFILL.md](docs/APPLY_AUTOFILL.md) for details on the ATS auto-fill flow, [docs/LINKEDIN_JOIN.md](docs/LINKEDIN_JOIN.md) for cross-referencing a LinkedIn connections export against the companies in your funnel, and [docs/FAQ.md](docs/FAQ.md) for answers to common setup questions, including [how story provenance prevents invented numbers](docs/FAQ.md#why-does-career-ops-refuse-to-use-a-number-from-my-story-bank). Design principles live in [ARCHITECTURE.md](ARCHITECTURE.md); runtime flows in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+
+<p align="center"><sub>If career-ops helped you, a star helps the next person find it.</sub></p>
 
 ## Usage
 
